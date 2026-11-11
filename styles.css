@@ -56,6 +56,11 @@ a.current {
     max-height: 600px;
 }
 
+.swiper-slide video {
+    width: auto;
+    max-height: 400px;
+    display: block;
+}
 .container .swiper-button-prev, .container .swiper-button-next {
         color: black;
         display: contents;
